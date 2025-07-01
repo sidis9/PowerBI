@@ -11,7 +11,6 @@ $10.00 (Set 3)
 A dataset containing online reviews from the past two quarters was collected for sentiment analysis to support pricing and marketing decisions.
 
 Objective
-Conduct sentiment analysis on customer reviews using Power BI.
 
 Present results in visualizations showing:
 
